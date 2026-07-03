@@ -73,6 +73,7 @@ Uptime
 
 - [API Status Check](https://apistatuscheck.com) - Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
 - [IncidentHub](https://incidenthub.cloud) - Status page aggregator for monitoring SaaS and cloud providers.
+- [OpenChainBench](https://openchainbench.com) - Open live benchmarks of blockchain infrastructure APIs and RPC providers (latency p50/p90/p99, success rate, multi-region), built on a public Prometheus; all data CC-BY-4.0.
 - [StatusGator](https://statusgator.com) - Cloud service monitoring, aggregating status pages of cloud services into a single dashboard.
 
 ## API Analytics
