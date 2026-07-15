@@ -47,6 +47,7 @@ Uptime
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [FlareWarden](https://flarewarden.com) — Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
+- [UpWatchr](https://upwatchr.io) - Free native Windows desktop app for uptime monitoring of websites and services. Local-first: checks run from your own machine, no cloud and no account.
   
 ## APM
 *Application Performance monitoring*
