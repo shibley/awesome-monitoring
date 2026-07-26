@@ -60,6 +60,7 @@ Uptime
 - [BitDive](https://bitdive.io/) - APM for Java/Kotlin with distributed tracing, method-level profiling, and performance metrics.
 - [Middleware](https://middleware.io) - Middleware's APM helps you troubleshoot issues in real-time, optimize performance, improve user experience, and reduce downtime.
 - [PerfScope](https://github.com/sattyamjjain/perfscope) - Advanced Python performance profiler with decorator-based setup, call tree visualization, memory tracking, and multi-format report export.
+- [Muscula](https://muscula.com/) - Lightweight application monitoring platform for developers with AI-native error reporting and debugging.
 
 ## Web Analytics
 
