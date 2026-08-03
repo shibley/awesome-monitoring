@@ -69,6 +69,22 @@ Uptime
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner powered by Lighthouse. Monitors performance, SEO, accessibility, and best practices with AI-generated action plans and a free REST API.
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
 
+## Uptime & Synthetic Monitoring
+
+External checks that request your endpoints from outside your own infrastructure
+
+- [Better Stack](https://betterstack.com/uptime) - Uptime monitoring bundled with log management and incident response, with on-call scheduling.
+- [Checkly](https://www.checklyhq.com) - Playwright-based synthetic monitoring, checks are written as code and run from CI.
+- [Cronitor](https://cronitor.io) - Cron job and heartbeat monitoring alongside uptime checks, with schedule-aware alerting.
+- [Hyperping](https://hyperping.com) - Uptime monitoring, status pages and on-call scheduling at a flat rate, hosted in the EU.
+- [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
+- [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
+- [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
+- [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted uptime monitoring with HTTP, TCP and DNS checks and a large set of notification channels.
+- [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
+- [UptimeRobot](https://uptimerobot.com) - Uptime monitoring with a large free tier, HTTP, ping, port, keyword, DNS and SSL checks.
+
 ## API Status Aggregation
 
 - [API Status Check](https://apistatuscheck.com) - Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable status badges.
