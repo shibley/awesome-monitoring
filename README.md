@@ -61,6 +61,7 @@ Uptime
 - [Crontiq](https://crontiq.io) - Free cron job monitoring with automatic JSON metric extraction and zero-config anomaly detection. 20 monitors free forever.
 - [Spork](https://sporkops.com) - Uptime monitoring with built-in status pages, CLI, and Terraform provider. Multi-region consensus checks from $4/mo.
 - [FlareWarden](https://flarewarden.com) — Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
+- [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors, 200K Beats/mo, 1-minute checks, no credit card. One curl ping to instrument a job, no agent or SDK.
 - [Superhighway](https://superhighway.walls.sh) - Web API whose `/scrape` endpoint turns any URL into clean Markdown, useful for building your own content/page-change monitoring (e.g. competitor pricing, changelogs, pages without an RSS feed). See the [change-detection tutorial](https://superhighway.walls.sh/guides/web-change-detection-agent): scrape, SHA-256 hash comparison, LLM-summarize what changed, and schedule with cron or GitHub Actions. Free API key or pay-per-call.
 
 ## APM
