@@ -104,6 +104,7 @@ Uptime
 
 - [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
 - [BurnRate](https://getburnrate.io) - AI coding cost analytics CLI that tracks usage and spend across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex. Includes optimization rules and rate limit monitoring.
+- [ReqKey](https://www.reqkey.com) - API key authentication, usage credits, rate limiting, and request analytics for REST APIs via a single verify call. SDKs for Python, Node.js, Go, Rust, PHP, .NET, and Java, with a free tier of 100,000 requests per month.
 
 ## Bug Tracking
 
