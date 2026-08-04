@@ -28,13 +28,21 @@ Dashboards
 - [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
 - [Kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux server monitoring tool
 
-Uptime
+Uptime and Synthetic Monitoring
 
-- [BetterUptime](https://betteruptime.com) - Free for 10 monitors, checked every 3 minutes, improved incident management capabilities
+External checks that request your endpoints from outside your own infrastructure
+
+- [Better Stack](https://betterstack.com/uptime) - Uptime monitoring bundled with log management and incident response, with on-call scheduling.
 - [BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime) - Open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations.
 - [Freshping](https://www.freshworks.com/website-monitoring) - Free for 50 monitors, checked every 1 minutes, supports websocket monitoring
 - [Monitive](http://monitive.com) - Free for 1 service, checked every 10 minutes with unlimited email & twitter alerts
 - [Checkly](https://www.checklyhq.com/) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright.
+- [Cronitor](https://cronitor.io) - Cron job and heartbeat monitoring alongside uptime checks, with schedule-aware alerting.
+- [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
+- [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
+- [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
+- [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
+- [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
 - [UptimeRobot](https://uptimerobot.com) - Free for 50 monitors, checked every 5 minutes
 - [UpTime.onl](https://uptime.onl) - Free for 10 URLs, checked every 5 minutes
 - [UpTime360](https://uptime360.net) - checked every 5 minutes. Monitor server, website, blacklist, custom services and publish status pages
@@ -68,22 +76,6 @@ Uptime
 - [Screpy](https://screpy.com) - Screpy is a web analyzer and monitoring tool. Its powered by Google Lighthouse.
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner powered by Lighthouse. Monitors performance, SEO, accessibility, and best practices with AI-generated action plans and a free REST API.
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and cookie-free web analytics.
-
-## Uptime & Synthetic Monitoring
-
-External checks that request your endpoints from outside your own infrastructure
-
-- [Better Stack](https://betterstack.com/uptime) - Uptime monitoring bundled with log management and incident response, with on-call scheduling.
-- [Checkly](https://www.checklyhq.com) - Playwright-based synthetic monitoring, checks are written as code and run from CI.
-- [Cronitor](https://cronitor.io) - Cron job and heartbeat monitoring alongside uptime checks, with schedule-aware alerting.
-- [Hyperping](https://hyperping.com) - Uptime monitoring, status pages and on-call scheduling at a flat rate, hosted in the EU.
-- [Pingdom](https://www.pingdom.com) - Synthetic and real user monitoring with transaction checks from 100+ probe locations.
-- [Pulsetic](https://pulsetic.com) - Uptime monitoring and status pages, checks run from 15 global locations.
-- [Safeship](https://safeship.app) - Endpoint monitoring that validates the JSON body against a schema rather than only the status code, billed per check performed. Configurable from an AI editor over MCP.
-- [StatusCake](https://www.statuscake.com) - Uptime, page speed, server and SSL monitoring with Lighthouse data on standard plans.
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Self-hosted uptime monitoring with HTTP, TCP and DNS checks and a large set of notification channels.
-- [Uptime.com](https://uptime.com) - 30+ check types including transaction monitoring and private location probes, with SLA reporting.
-- [UptimeRobot](https://uptimerobot.com) - Uptime monitoring with a large free tier, HTTP, ping, port, keyword, DNS and SSL checks.
 
 ## API Status Aggregation
 
