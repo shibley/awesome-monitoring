@@ -61,6 +61,7 @@ Uptime
 - [Crontiq](https://crontiq.io) - Free cron job monitoring with automatic JSON metric extraction and zero-config anomaly detection. 20 monitors free forever.
 - [Spork](https://sporkops.com) - Uptime monitoring with built-in status pages, CLI, and Terraform provider. Multi-region consensus checks from $4/mo.
 - [FlareWarden](https://flarewarden.com) — Uptime, content, dependency, and SSL monitoring with multi-region verification and status pages. Free plan includes 15 monitors, 5-minute checks, and 90 days of history.
+- [Hyperping](https://hyperping.com) - Uptime, API, cron, and server monitoring from 18 locations, with Playwright browser checks, on-call scheduling, and hosted status pages.
 - [UpWatchr](https://upwatchr.io) - Free native Windows desktop app for uptime monitoring of websites and services. Local-first: checks run from your own machine, no cloud and no account.
 - [sunwatch](https://sunwatch.sunfamily.xyz) - Crypto-paid uptime monitoring for side projects. Pay per monitor with USDC on Base; webhook alerts on down/up state changes.
 - [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and uptime monitoring with incident management and status pages. Free for up to 50 monitors, 200K Beats/mo, 1-minute checks, no credit card. One curl ping to instrument a job, no agent or SDK.
