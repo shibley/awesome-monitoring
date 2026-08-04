@@ -28,6 +28,7 @@ Dashboards
 - [Uchiwa](https://uchiwa.io) - Simple dashboard for the Sensu monitoring framework.
 - [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
 - [Netdata](https://www.netdata.cloud/agent/) - Troubleshoot slowdowns and anomalies in your infrastructure with thousands of metrics, interactive visualizations, and insightful health alarms.
+- [HomeLab Monitor](https://github.com/SikamikanikoBG/homelab-monitor) - Self-hosted homelab dashboard in a single Docker container - per-container GPU/VRAM attribution, Docker health, systemd service status, and host vitals across multiple machines over SSH.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes monitoring dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 - [Kula](https://github.com/c0m4r/kula) - Lightweight, self-contained Linux server monitoring tool
 
